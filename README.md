@@ -33,6 +33,7 @@ frontend/
 ├── package.json
 └── .env
 ```
+---
 Back-End
 ```
 backend/
